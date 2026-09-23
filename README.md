@@ -1,6 +1,7 @@
 # Olá, eu sou o Tiago Borba 👋
 
-An Arquiteto de Infraestrutura de TI & AI Engineer baseado em Florianópolis/SC. Especialista em sistemas de missão crítica, redes de alta performance e no desenvolvimento de ecossistemas locais de Inteligência Artificial.
+Arquiteto de Infraestrutura de TI & AI Engineer baseado em Florianópolis/SC. 
+Especialista em sistemas de missão crítica, redes de alta performance e no desenvolvimento de ecossistemas locais de Inteligência Artificial.
 
 ### 🛠️ Tecnologias & Stack
 - **AI & Data:** Python, Ollama, Qdrant (Vector DB), RAG Avançado, Function/Tool Calling.
